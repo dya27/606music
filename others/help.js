@@ -26,7 +26,7 @@ module.exports = {
       .setDescription("__**```List of all commands```**__")
        .setImage('https://cdn.discordapp.com/attachments/803387187965198417/809597243418083348/7d20.gif')
        .setFooter(message.author.username, message.author.displayAvatarURL)
-       .setDescription(`**[  SUPPORT  ](https://discord.gg/36gmn23c8F)**   -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=829463319177461770&permissions=8&scope=bot)`)
+       .setDescription(`**[  SUPPORT  ](https://discord.gg/Rqrp3RAr5p)**   -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=872232365399879680&permissions=2184437056&scope=bot)`)
       .setThumbnail(message.author.avatarURL)
       .setColor('RANDOM');
     //define argstrue to negative
